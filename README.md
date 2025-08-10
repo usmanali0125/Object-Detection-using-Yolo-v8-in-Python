@@ -18,25 +18,33 @@ It’s built with **Python** and **OpenCV**, making it fast, accurate, and easy 
 ---
 
  Requirements
- 
+ <br>
 Python 3.8+
+ <br>
 OpenCV
+ <br>
 Ultralytics YOLOv8
+ <br>
 Webcam or camera device
 
-
+ <br>
 🧠 How It Works
-
+ <br>
 The YOLOv8 model processes frames from your webcam in real-time.
+ <br>
 It detects and classifies objects into "Cat" or "Dog".
+ <br>
 Bounding boxes and labels are drawn around detected animals.
-
+ <br>
 📸 Example Output
+ <br>
 [ Cat Detected at (x1, y1, x2, y2) ]
+ <br>
 [ Dog Detected at (x1, y1, x2, y2) ]
 
 
 🤝 Contributing
+ <br>
 Feel free to fork this repo, improve the code, and submit pull requests.
 
 
